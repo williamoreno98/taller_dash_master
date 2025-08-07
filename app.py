@@ -30,7 +30,7 @@ def load_data():
     df.set_index('time', inplace=True)
     
     return df
-
+#Modificacion de ejemplo por Santiago
 
 # Cargar datos
 data = load_data()
